@@ -1,7 +1,7 @@
 # YouTube Banner PSD Template (Safe Area Included)
 
 A clean and responsive **YouTube Channel Banner base** designed in **Adobe Photoshop (PSD)** with proper safe-area guidelines for all screen sizes.
-![YouTube Banner Preview](resources\preview.jpg)
+![Preview](resources/preview.jpg)
 
 This template helps creators design banners without worrying about text or logos getting cropped on different devices.
 
@@ -63,5 +63,6 @@ All zones are clearly marked inside the PSD.
 ❌ Redistribution or reselling of the PSD itself is not allowed
 
 ---
+
 
 Happy designing 🎨
